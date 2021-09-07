@@ -1,7 +1,9 @@
 # [pedrorbc.github.io](https://PedroRBC.github.io/)
 
 # Ola, eu sou *Pedro*
-![github overall statistics](https://github-readme-stats.vercel.app/api?username=PedroRBC&show_icons=true&theme=tokyonight)
-![github language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRBC&show_icons=true&layout=compact&theme=tokyonight)
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroRBC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRBC&layout=compact&langs_count=7&theme=tokyonight"/>
+  </div>
 
   ![Snake animation](https://github.com/PedroRBC/PedroRBC/blob/output/github-contribution-grid-snake.svg)
