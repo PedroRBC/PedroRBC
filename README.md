@@ -4,7 +4,7 @@
 
 <div align="center">
  <a href="https://github.com/PedroRBC">
- <img height="165" src="https://github-readme-stats.vercel.app/api?username=PedroRBC&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroRBC&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true)
  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRBC&layout=compact&langs_count=7&theme=discord_old_blurple"/>
   <br>
  <img height="185" src="http://github-readme-streak-stats.herokuapp.com?user=PedroRBC&date_format=j%20M%5B%20Y%5D&background=2C2F33&sideNums=7289DA&currStreakNum=7289DA&currStreakLabel=FFFFFF&stroke=FFFFFF&dates=FFFFFF&ring=97A9B4&fire=7289DA&sideLabels=97A9B4&border=97A9B4">
