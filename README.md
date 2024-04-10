@@ -39,7 +39,6 @@
  
 <div align="center">
  
-  ![Snake animation](https://github.com/PedroRBC/PedroRBC/blob/output/github-contribution-grid-snake.svg)
- 
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=PedroRBC.PedroRBC&style=for-the-badge">
+  ![Snake animation](https://github.com/PedroRBC/PedroRBC/blob/output/github-contribution-grid-snake-dark.svg)
+  
 </div>
