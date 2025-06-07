@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=27&center=true&width=550&lines=Oiii!+Eu+sou+o+Pedro+%F0%9F%91%8B">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=27&center=true&width=550&lines=Hi!+I'm+Pedro+%F0%9F%91%8B">
 </h1>
 
 <div align="center">
@@ -16,9 +16,9 @@
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/typescript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white">
   </a>
-  <a href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  </a>
+ <a href="https://go.dev">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+ </a>
   <a href="https://reactjs.org/">
    <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=121212">
   </a>
@@ -29,10 +29,15 @@
   </a>
  <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
-  </a>
+  </a><a href="https://www.docker.com/">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</a>
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   </a>
+<a href="https://firebase.google.com/">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+</a>
 </p>
  
 <hr>
